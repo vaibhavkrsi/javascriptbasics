@@ -12,7 +12,7 @@ console.log(newarr);
 
 
 // let arr = [1,2,3,4];
-// let newarr = arr.map((value,index)=>{
+// let newarr = arr.map((value,index)=>{ 
 //    console.log(value,index);
 // }) 
 // console.log(arr)
